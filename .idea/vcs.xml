@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python/fundamentals/FaceDetect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/fundamentals/tarea_opencv" vcs="Git" />
   </component>
 </project>
